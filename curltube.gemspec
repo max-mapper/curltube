@@ -16,13 +16,13 @@ Gem::Specification.new do |s|
   s.executables = ["curltube"]
   s.extra_rdoc_files = [
     "LICENSE",
-     "README.md"
+     "README.textile"
   ]
   s.files = [
     ".document",
      ".gitignore",
      "LICENSE",
-     "README.md",
+     "README.textile",
      "Rakefile",
      "VERSION",
      "bin/curltube",
