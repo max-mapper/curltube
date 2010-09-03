@@ -1,9 +1,8 @@
-Download Youtube videos via @curl@!:
-=============
+h1. Download Youtube videos via @curl@!:
 
 install!:
 
-    gem install curltube
+@gem install curltube@
 
 then run @curltube <youtube-url>@
 
